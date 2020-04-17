@@ -1,4 +1,4 @@
-# wawza-streaming-sample
+# wowza-streaming-sample
 
 This is running sample of Wowsa Streaming cloud SDK.
 
