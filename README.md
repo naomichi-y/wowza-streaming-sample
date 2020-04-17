@@ -1,8 +1,6 @@
 # wowza-streaming-sample
 
-This is running sample of Wowsa Streaming cloud SDK.
-
-https://github.com/WowzaMediaSystems/wsc-sdk-ruby
+This is running sample of [Wowsa Streaming cloud SDK](https://github.com/WowzaMediaSystems/wsc-sdk-ruby).
 
 ## Setup
 
