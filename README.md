@@ -8,6 +8,8 @@ https://github.com/WowzaMediaSystems/wsc-sdk-ruby
 
 ```
 $ bundle install --path vendor/bundle
+$ export WSC_API_KEY=***
+$ export WSC_API_ACCESS_KEY=***
 ```
 
 # Run sample code
