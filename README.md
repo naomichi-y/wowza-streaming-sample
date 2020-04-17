@@ -10,7 +10,7 @@ $ export WSC_API_KEY=***
 $ export WSC_API_ACCESS_KEY=***
 ```
 
-# Run sample code
+## Run sample code
 
 ```
 # Create live stream
