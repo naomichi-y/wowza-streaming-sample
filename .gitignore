@@ -1,2 +1,4 @@
+!.gitkeep
 .bundle
 vendor
+samples/downloads/*

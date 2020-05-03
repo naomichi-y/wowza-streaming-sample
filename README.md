@@ -19,6 +19,15 @@ $ bundle exec ruby samples/create_livestream.rb
 # Start live stream
 $ bundle exec ruby samples/start_livestream.rb {live_stream_id}
 
+# Show live stream
+$ bundle exec ruby samples/show_livestream.rb {live_stream_id}
+
 # Stop live stream
 $ bundle exec ruby samples/stop_livestream.rb {live_stream_id}
+
+# Get recordings
+$ bundle exec ruby samples/get_recordings.rb
+
+# Get recording
+$ bundle exec ruby samples/get_recording.rb {recording_id}
 ```
